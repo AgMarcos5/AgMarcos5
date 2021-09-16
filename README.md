@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola! 👋
+Mi nombre es <b>Marcos Agüero</b>.</br>
+Soy estudiante avanzado de ingeniería informática en la UNMDP y me desempeño como ilustrador freelance.</br>
+Estoy dando mis primeros pasos en el desarrollo de videojuegos, un área que realmente me apasiona y donde puedo integrar mis conocimientos tanto de arte como de programación.</br>
+
+<a href="https://agmarcos5.github.io">Portfolio</a>
 
 <!--
 **AgMarcos5/AgMarcos5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
