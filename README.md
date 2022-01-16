@@ -1,7 +1,7 @@
 ### Hola! 👋
 Mi nombre es <b>Marcos Agüero</b>.</br>
-Soy estudiante avanzado de ingeniería informática en la UNMDP y me desempeño como ilustrador freelance.</br>
-Estoy dando mis primeros pasos en el desarrollo de videojuegos, un área que realmente me apasiona y donde puedo integrar mis conocimientos tanto de arte como de programación.</br>
+Soy estudiante avanzado de ingeniería informática en la UNMDP y me desempeño como ilustrador freelance. Con el objetivo de capacitarme al máximo sobre el front end y desarrollo de videojuegos, áreas que realmente me apasionan y donde puedo integrar mis conocimientos tanto de arte como de programación.
+</br>
 
 - 🔭 Actualmente estoy trabajando en [Oblivion 3000](https://github.com/AgMarcos5/Oblivion-3000)
 
