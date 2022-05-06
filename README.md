@@ -5,7 +5,7 @@ Soy estudiante avanzado de ingeniería informática en la UNMDP y me desempeño 
 
 - 🔭 Actualmente estoy trabajando en [Oblivion 3000](https://github.com/AgMarcos5/Oblivion-3000)
 
-- [Portfolio](https://agmarcos5.github.io)
+- [Portfolio](https://agmarcos.com)
 - [LinkedIn](https://www.linkedin.com/in/agueromarcos/)
 
 <p align="left"> <a href="https://twitter.com/temdi5" target="blank"><img src="https://img.shields.io/twitter/follow/temdi5?logo=twitter&style=for-the-badge" alt="temdi5" /></a> </p>
