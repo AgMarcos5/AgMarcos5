@@ -3,23 +3,16 @@ Mi nombre es <b>Marcos Agüero</b>.</br>
 Soy estudiante avanzado de ingeniería informática en la UNMDP y me desempeño como ilustrador freelance. Con el objetivo de capacitarme al máximo sobre el front end y desarrollo de videojuegos, áreas que realmente me apasionan y donde puedo integrar mis conocimientos tanto de arte como de programación.
 </br>
 
+
+
+
+
 - 🔭 Actualmente estoy trabajando en [Oblivion 3000](https://github.com/AgMarcos5/Oblivion-3000)
+- [Portfolio](https://agmarcos.com) 
+- [LinkedIn](https://www.linkedin.com/in/agueromarcos/) 
 
-- [Portfolio](https://agmarcos.com)
-- [LinkedIn](https://www.linkedin.com/in/agueromarcos/)
 
-<p align="left"> <a href="https://twitter.com/temdi5" target="blank"><img src="https://img.shields.io/twitter/follow/temdi5?logo=twitter&style=for-the-badge" alt="temdi5" /></a> </p>
-<!--
-**AgMarcos5/AgMarcos5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| ![Metrics](https://metrics.lecoq.io/agmarcos5?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FBuenos_Aires) | ![Metrics](https://metrics.lecoq.io/agmarcos5?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FBuenos_Aires) |
+| --- | --- |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <a href="https://twitter.com/temdi5" target="blank"><img src="https://img.shields.io/twitter/follow/temdi5?logo=twitter&style=for-the-badge" alt="temdi5" /></a> </p>
