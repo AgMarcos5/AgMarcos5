@@ -12,7 +12,11 @@ Soy estudiante avanzado de ingeniería informática en la UNMDP y me desempeño 
 - [LinkedIn](https://www.linkedin.com/in/agueromarcos/) 
 
 
-| ![Metrics](https://metrics.lecoq.io/agmarcos5?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FBuenos_Aires) | ![Metrics](https://metrics.lecoq.io/agmarcos5?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FBuenos_Aires) |
-| --- | --- |
+<p align="center"> 
+  <a href="https://agmarcos.com/" target="blank"><img src="https://user-images.githubusercontent.com/74142173/167305930-6cbaa82b-1d7c-4b8c-b177-8e87c063d70b.png" alt="portfolio" /></a> 
+  <a href="https://agmarcos.com/#/oblivion" target="blank"><img src="https://user-images.githubusercontent.com/74142173/167305937-786b8f6b-f151-44f5-ba7a-b810f631f20c.png" alt="oblivion" /></a> 
+</p>
 
 <p align="center"> <a href="https://twitter.com/temdi5" target="blank"><img src="https://img.shields.io/twitter/follow/temdi5?logo=twitter&style=for-the-badge" alt="temdi5" /></a> </p>
+
+
