@@ -13,6 +13,7 @@ Soy estudiante avanzado de ingeniería informática en la UNMDP y me desempeño 
 - [Portfolio](https://agmarcos.com) 
 - [LinkedIn](https://www.linkedin.com/in/agueromarcos/) 
 
-<p align="center"> <a href="https://twitter.com/temdi5" target="blank"><img src="https://img.shields.io/twitter/follow/temdi5?logo=twitter&style=for-the-badge" alt="temdi5" /></a> </p>
+<p align="center"><a href="https://twitter.com/temdi5" target="blank"><img src="https://img.shields.io/twitter/follow/temdi5?logo=twitter&style=for-the-badge" alt="temdi5" /></a> 
+  <a href="https://www.linkedin.com/in/agueromarcos/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a></p>
 
 
