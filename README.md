@@ -1,6 +1,6 @@
 ## Hola! 👋 </br> Mi nombre es <b>Marcos Agüero</b>.</br>
-#### Frontend developer | Ilustrador | Estudiante avanzado de ingeniería informática 
-###### Con el objetivo de capacitarme al máximo sobre el front end y desarrollo de videojuegos, áreas que realmente me apasionan y donde puedo integrar mis conocimientos tanto de arte como de programación.
+#### *Frontend developer | Ilustrador | Estudiante avanzado de ingeniería informática*
+Con el objetivo de capacitarme al máximo sobre el front end y desarrollo de videojuegos, áreas que realmente me apasionan y donde puedo integrar mis conocimientos tanto de arte como de programación.
 </br>
 
 
