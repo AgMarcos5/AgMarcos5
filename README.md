@@ -1,6 +1,6 @@
-### Hola! 👋
-Mi nombre es <b>Marcos Agüero</b>.</br>
-Soy estudiante avanzado de ingeniería informática en la UNMDP y me desempeño como ilustrador freelance. Con el objetivo de capacitarme al máximo sobre el front end y desarrollo de videojuegos, áreas que realmente me apasionan y donde puedo integrar mis conocimientos tanto de arte como de programación.
+## Hola! 👋 </br> Mi nombre es <b>Marcos Agüero</b>.</br>
+#### Frontend developer | Ilustrador | Estudiante avanzado de ingeniería informática 
+###### Con el objetivo de capacitarme al máximo sobre el front end y desarrollo de videojuegos, áreas que realmente me apasionan y donde puedo integrar mis conocimientos tanto de arte como de programación.
 </br>
 
 
@@ -13,7 +13,11 @@ Soy estudiante avanzado de ingeniería informática en la UNMDP y me desempeño 
 - [Portfolio](https://agmarcos.com) 
 - [LinkedIn](https://www.linkedin.com/in/agueromarcos/) 
 
-<p align="center"><a href="https://twitter.com/temdi5" target="blank"><img src="https://img.shields.io/twitter/follow/temdi5?logo=twitter&style=for-the-badge" alt="temdi5" /></a> 
-  <a href="https://www.linkedin.com/in/agueromarcos/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a></p>
+<p align="center">
+<a href="https://twitter.com/AgMarcos5" target="blank"><img src="https://img.shields.io/twitter/follow/AgMarcos5?logo=twitter&style=for-the-badge" alt="AgMarcos5" /></a> 
+<a href="https://twitter.com/temdi5" target="blank"><img src="https://img.shields.io/twitter/follow/temdi5?logo=twitter&style=for-the-badge" alt="temdi5" /></a> 
+  <a href="https://www.linkedin.com/in/agueromarcos/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  
+</p>
 
 
